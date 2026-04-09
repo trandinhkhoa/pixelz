@@ -1,0 +1,6 @@
+- Check `docs/plan.md` for the next unfinished tasks and implement it with respect to `docs/specs.md`
+- Work on ONE task at a time unless a specified list of task numbers are provided
+- follow rules in`decision-protocol.md` for decision making
+- after completing the requested task
+  - tick the checkbox for the finished tasks in `docs/plan.md`
+  - stop
